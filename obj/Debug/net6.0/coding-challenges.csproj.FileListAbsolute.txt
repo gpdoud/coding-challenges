@@ -1,0 +1,15 @@
+C:\repos\coding-challenges\obj\Debug\net6.0\coding-challenges.csproj.AssemblyReference.cache
+C:\repos\coding-challenges\obj\Debug\net6.0\coding-challenges.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\coding-challenges\obj\Debug\net6.0\coding-challenges.AssemblyInfoInputs.cache
+C:\repos\coding-challenges\obj\Debug\net6.0\coding-challenges.AssemblyInfo.cs
+C:\repos\coding-challenges\obj\Debug\net6.0\coding-challenges.csproj.CoreCompileInputs.cache
+C:\repos\coding-challenges\bin\Debug\net6.0\coding-challenges.exe
+C:\repos\coding-challenges\bin\Debug\net6.0\coding-challenges.deps.json
+C:\repos\coding-challenges\bin\Debug\net6.0\coding-challenges.runtimeconfig.json
+C:\repos\coding-challenges\bin\Debug\net6.0\coding-challenges.dll
+C:\repos\coding-challenges\bin\Debug\net6.0\coding-challenges.pdb
+C:\repos\coding-challenges\obj\Debug\net6.0\coding-challenges.dll
+C:\repos\coding-challenges\obj\Debug\net6.0\refint\coding-challenges.dll
+C:\repos\coding-challenges\obj\Debug\net6.0\coding-challenges.pdb
+C:\repos\coding-challenges\obj\Debug\net6.0\coding-challenges.genruntimeconfig.cache
+C:\repos\coding-challenges\obj\Debug\net6.0\ref\coding-challenges.dll
